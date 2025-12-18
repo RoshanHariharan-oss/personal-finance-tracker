@@ -1,4 +1,4 @@
-# personal-finance-tracker
+
 # Personal Finance Tracker
 
 A lightweight, desktop-based finance management tool built with Python and Tkinter. This application allows users to log income and expenses, categorize transactions, and view a real-time summary of their financial health.
