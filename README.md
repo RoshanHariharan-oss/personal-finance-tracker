@@ -16,3 +16,5 @@ A lightweight, desktop-based finance management tool built with Python and Tkint
 * Python 3.x
 * Pandas library
 
+<img width="1907" height="432" alt="image" src="https://github.com/user-attachments/assets/62f4295d-9d7a-4911-8c2d-121dd29099cb" />
+example
